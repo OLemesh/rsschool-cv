@@ -9,6 +9,7 @@
 * __Phone:__ +48694701152
 * __Email:__ podskrebkina.olyaa@gmail.com
 * __GitHub:__ [OlyaLemesh](https://github.com/OLemesh)
+* __Discord:__ Olya Lemesh(@OLemesh)
 ***********
 
 ## About me
@@ -37,3 +38,7 @@ function multiply(a, b){
 
 ## English
 __В1__ (courses in MSLU)
+***********
+
+## Projects
+__CV#1. Markdown & Git__ 
